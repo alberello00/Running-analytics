@@ -6,6 +6,7 @@ This project aims to analyze data from runners' training sessions and develop a 
 Installation
 Usage
 Data Collection
+
 Data Preprocessing
 Training the Generative Model
 Generating Personalized Training Plans
@@ -16,7 +17,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/runner-data-analysis.git
+git clone #insert link
 Navigate to the project directory:
 bash
 Copy code
